@@ -43,5 +43,5 @@ def filter_words(query):
 - lnjut ntar
 
 ```
-ForestyHC{welcome_to_hacker_class_foresty_596e77}
+flag
 ```
