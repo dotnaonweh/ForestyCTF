@@ -7,8 +7,8 @@ List Challenge yang berhasil diselesaikan.
 ### Week 1
 | Category | Challenge |
 | --- | --- |
-| Miscellaneous | [Sanity Check](/Sanity_Check/)
-| Web Exploitation | [Fortune Cookies](/Fortune_Cookies/)
+| Miscellaneous | [Sanity Check](/Miscellaneous/Sanity_Check/)
+| Web Exploitation | [Fortune Cookies](/Web%20Exploitation/Fortune_Cookies/)
 | Web Exploitation | [Mongkey](/Web%20Exploitation/Mongkey/)
 | Web Exploitation | [ezqlite](/Web%20Exploitation/ezqlite/)
 | Web Exploitation | [figl33t](/Web%20Exploitation/figl33t/)
