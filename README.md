@@ -3,6 +3,7 @@ xsanna
 
 ## List Challenge
 List Challenge yang berhasil diselesaikan.
+*sebagian belum selesai ditulis
 
 ### Week 1
 | Category | Challenge |
