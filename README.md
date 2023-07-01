@@ -17,6 +17,6 @@ List Challenge yang berhasil diselesaikan.
 | Crpytography | [RSA](/Cryptography/RSA/)
 | Crpytography | [Emoji](/Cryptography/Emoji/)
 | Crpytography | [Xorrr](/Cryptography/Xorrr/)
-| Forensic | [Recover Me](/Forensic/RecoverMe/)
+| Forensic | [Recover Me](/Forensic/Recover%20Me/)
 | Forensic | [Flagzz](/Forensic/Flagzz/)
 | Forensic | [Rawwrr](/Forensic/Rawwrr/)
